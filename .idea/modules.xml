@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chromecast/Chromecast.iml" filepath="$PROJECT_DIR$/Chromecast/Chromecast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChromecastProject.iml" filepath="$PROJECT_DIR$/ChromecastProject.iml" />
+    </modules>
+  </component>
+</project>
+
